@@ -2,9 +2,13 @@ AWS offers the broadest and deepest set of machine learning services and support
 
  You can learn more about Machine Learning services offered by AWS by visiting https://aws.amazon.com/machine-learning/
 
- Platforms like [AWS Educate](https://www.awseducate.com/) and [AWS Workshops](https://workshops.aws/) can be used to leverage 
+ Platforms like [AWS Educate](https://www.awseducate.com/) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about AI ML. 
 
-## Here is a list of resources that can be leveraged to have Hands-on knowledge about the AI and ML services AWS offers - 
+## Here is a list of resources that can be leveraged to have Hands-on knowledge about the AI and ML services AWS offers.
+
+L100 - Beginner/Easy
+L200 - Medium
+L300 - Expert
 
 | Sr.no. | Title                                                                                                                                                                                                                                                                                                     | Format                    | Level |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|
