@@ -7,7 +7,9 @@ AWS offers the broadest and deepest set of machine learning services and support
 ## Here is a list of resources that can be leveraged to have Hands-on knowledge about the AI and ML services AWS offers.
 
 L100 - Beginner/Easy
+
 L200 - Medium
+
 L300 - Expert
 
 | Sr.no. | Title                                                                                                                                                                                                                                                                                                     | Format                    | Level |
