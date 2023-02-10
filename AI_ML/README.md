@@ -8,7 +8,7 @@ Platforms like [AWS Educate](https://www.awseducate.com/) and [AWS Workshops](ht
 
 ---
 
-Get started with AI/ML with these beginner friendly resources - 
+### Get started with AI/ML with these beginner friendly resources - 
 
 | Level | Title                                                                                                                                                                                                                                                                                                     | Description                                                                                                  | Format        |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------|
@@ -20,7 +20,7 @@ Get started with AI/ML with these beginner friendly resources -
 
 ---
 
-Already know the ropes of how to use AI and ML? Go through these resources to implement AI ML -
+### Already know the ropes of how to use AI and ML? Go through these resources to implement AI ML -
 
 | Level | Title                                                                                                                                     | Description                                                                                    | Format       |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
@@ -32,7 +32,7 @@ Already know the ropes of how to use AI and ML? Go through these resources to im
 
 ---
 
-For advance developers who wish to deploy industry grade applications using machine learning - 
+### For advance developers who wish to deploy industry grade applications using machine learning - 
 
 | Level   | Title                                                                                                                                                                                                                                             | Description                                                                                                                                                               | Format             |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
@@ -43,14 +43,6 @@ For advance developers who wish to deploy industry grade applications using mach
 | :three: | [Upscale images with Stable Diffusion in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/upscale-images-with-stable-diffusion-in-amazon-sagemaker-jumpstart/)                                                           | This blogpost is for advance SageMaker developers. We build a solution to increase the resolution of a given image using ML                                               | Lab, Documentation |
 
 
-
-
-                                                                                                                                                                                                                                 | Labs                      | L100  |
-| 11     | [AWS Deeplens](https://awseducate.instructure.com/courses/208)                                                                                                                                                                                                                                            | Labs                      | L100  |
-| 12     | [How to encrypt sensitive caller voice input in Amazon Lex](https://aws.amazon.com/blogs/security/how-to-encrypt-sensitive-caller-authentication-voice-input-in-amazon-lex/)                                                                                                                              | Project, Blog             | L200  |
-| 13     | [Build a loyalty points anomaly detector using Amazon Lookout for Metrics](https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/)                                                                                                       | Project, Blog             | L200  |
-| 14     | [Build a water consumption forecasting solution for a water utility agency using Amazon Forecast](https://aws.amazon.com/blogs/machine-learning/build-a-water-consumption-forecasting-solution-for-a-water-utility-agency-using-amazon-forecast/)                                                         | Project, Blog             | L200  |
-| 15     | [Upscale images with Stable Diffusion in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/upscale-images-with-stable-diffusion-in-amazon-sagemaker-jumpstart/)                                                                                                                   | Project, Blog             | L300  |
 
 
 
