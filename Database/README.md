@@ -30,3 +30,9 @@ Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](ht
 ---
 
 ### Level :three: - Advanced
+
+| Title                                                                            | Description                                                                                                                                                                         | Format         |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| [SQL Server Immersion Day](https://sql-immersionday.workshop.aws/)               | This is a beginner to advance course with a long duration to completely understand how to host SQL applications on AWS                                                              | Workshop, Labs |
+| [Amazon Aurora PostgreSQL Immersion Day](https://aurora-pg-lab.workshop.aws/)    | Amazon Aurora is a relational database service which provides a higher performance compared to Amazon RDS, Learn more about this high performance database service in this workshop | Workshop, Labs |
+| [Amazon DynamoDB Workshops and Labs](https://amazon-dynamodb-labs.workshop.aws/) | Amazon DynamoDB is a NoSQL database service with lower latency and higher performance than Amazon DocumentDB. Deep dive into DynamoDB service by exploring this workshop            | Workshop, Labs |
