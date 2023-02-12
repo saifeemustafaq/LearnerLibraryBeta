@@ -1,0 +1,32 @@
+As a student, there are multiple ways you can use databases as it is a must element when you build web or mobile applications. While doing Data Analytics and Data Science, databases is very important to store the large data sets you might use. By using database in Machine learning and Artificial Intelligence you can collect vast data and use the storeed data to train your models.
+
+AWS has a wide range of service offerings to accommodate different database requirements to make your project aweseome. Learn more about AWS offerings about Databases by visiting - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
+
+Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about how to build database applications.
+
+---
+
+### Level :one: - Getting Started
+
+| Title                                                                                                                                                                                                                | Description                                                                                                                           | Format       |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| [Getting Started with Amazon ElastiCache](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14572/getting-started-with-amazon-elasticache)                                                       | Working on a project that requires frequently   accessing of data? Learn about ElastiCache in this course                             | Video Course |
+| [Getting Started with Amazon Timestream](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14501/getting-started-with-amazon-timestream)                                                         | Timestream is a database service for usecases involving IoT and time   sensitive data                                                 | Video Course |
+| [Getting Started with Amazon Neptune](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14165/getting-started-with-amazon-neptune)                                                               | Amazon Neptune is specially used for connections between data and   services. Learn more about Amazon Neptune in this course.         | Video Course |
+| [Getting Started with Amazon Keyspaces](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13688/getting-started-with-amazon-keyspaces)                                                           | When you require fast access to data in a highly scalable environment for   your application, you will need Amazon Keyspaces          | Video Course |
+| [Getting Started with Amazon DocumentDB (with MongoDB compatibility)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12290/getting-started-with-amazon-documentdb-with-mongodb-compatibility) | While working with unstructured data, you would need a NoSQL database   service, Amazon DocumentDB does just that for you.            | Video Course |
+| [Getting Started with Amazon RDS for MariaDB](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12331/getting-started-with-amazon-rds-for-mariadb)                                               | Amazon RDS is used in scenarios where you would want to work with   structured data. It is a traditional relational database service. | Video Course |
+
+---
+
+### Level :two: - Intermediate
+
+| Title                                                                                                    | Description                                                                                                                             | Format         |
+|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| [Amazon RDS for SQL Server Workshop](https://rdssms.workshop.aws/)                                       | This is an advanced hands on workshop on creating Relational Database on Cloud                                                          | Workshop, Labs |
+| [Amazon RDS for PostgreSQL - Workshop](https://rdspg.workshop.aws/)                                      | PostgreSQL is also a form of relational database management system. Learn more on how Amazon RDS makes PostgreSQL easy to use and setup | Workshop, Labs |
+| [Amazon DocumentDB (with MongoDB compatibility) workshop](https://documentdb-immersionday.workshop.aws/) | When working with NoSQL, you would need to learn Amazon DocumentDB, in this workshop learn how to use DocumentDB for your project       | Workshop, Labs |
+
+---
+
+### Level :three: - Advanced
