@@ -1,8 +1,10 @@
-Data Science
+# Data Science and Data Analytics
 
-Data Science is a subject that can be incorporated into a lot fields of computer science, and you as a student can make 
+Data Science is a subject that can be incorporated into a lot fields of computer science, and you as a student can integrate all that you learn in your college curriculum with Data Science and build awesome projects out of it.
 
 Learn more about DataScience on AWS here - https://aws.amazon.com/getting-started/learning-path-data-scientist/
+
+Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about how to build data science and data analytics applications.
 
 ---
 
