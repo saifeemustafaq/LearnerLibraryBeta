@@ -1,3 +1,5 @@
+# Web Development
+
 Visit [AWS Amplify](https://aws.amazon.com/amplify/) to learn more about Web Development.
 
 To get started with [AWS Amplify](https://aws.amazon.com/amplify/), refer to the following training materials:
