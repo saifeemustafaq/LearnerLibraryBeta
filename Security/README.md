@@ -1,8 +1,23 @@
-Using AWS, you will gain the control and confidence you need to securely run your business with the most flexible and secure cloud computing environment available today. As an AWS customer, you will benefit from AWS data centers and a network architected to protect your information, identities, applications, and devices. With AWS, you can improve your ability to meet core security and compliance requirements, such as data locality, protection, and confidentiality with our comprehensive services and features.
+There is a huge surge in demand for security experts who are well versed with securing the systems of any organization and have an indepth understanding of the ethical considerations for privacy and protection. As a student you should be able to build your projects that are secure and reliable keeping in mind the sensitive information the system is supposed to protect. 
 
-AWS allows you to automate manual security tasks so you can shift your focus to scaling and innovating your business. Plus, you pay only for the services that you use. All customers benefit from AWS being the only commercial cloud that has had its service offerings and associated supply chain vetted and accepted as secure enough for top-secret workloads.
+AWS has a wide range of service offerings to accommodate different Security requirements and compliance to make your project reliable, safe and secure. Learn more about AWS offerings about Security by visiting - [AWS Cloud Security](https://aws.amazon.com/security/)
 
-Here are some resources to learn more about security on AWS.
+Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about how to secure your applications using AWS.
+
+---
+
+### Level :one: - Getting Started
+
+---
+
+### Level :two: - Intermediate
+
+---
+
+### Level :three: - Advanced
+
+
+
 
 | Sr.no. | Title                                                                                                                                                                                                                    | Format       | Level |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|
