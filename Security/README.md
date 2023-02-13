@@ -8,23 +8,26 @@ Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](ht
 
 ### Level :one: - Getting Started
 
+| Title                                                                                                                                                                    | Description                                                                                                                                                                                                 | Format |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [AWS Security Fundamentals - Skillbuilder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/48/aws-security-fundamentals-second-edition?src=detail) | In this self-paced course, you will learn fundamental AWS cloud security concepts, including AWS access control, data encryption methods, and how network access to your AWS infrastructure can be secured. | Course |
+| [AWS Cloud Quest - Security](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan?la=cta&cta=topbanner)                            | Develop a fundamental understanding of security concepts and start building solutions in a gamified manner. Once you start the quest, click on roles, and change your role to Security from the options     | Course |
+
 ---
 
 ### Level :two: - Intermediate
+
+| Title                                                                      | Description                                                                                                                                                        | Format |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| [Cybersecurity Specialist](https://awseducate.instructure.com/courses/196) | Learn about AWS Shared Security Responsibility Model, Network Security, Access Control and Management, Encryption, Security Logging and Monitoring in this course. | Videos |
+| [Online Privacy](https://awseducate.instructure.com/courses/237)           | In this course you will make yourself aware on how you can secure your online privacy by changing everyday habits when interacting with social platforms.          | Videos |
 
 ---
 
 ### Level :three: - Advanced
 
-
-
-
-| Sr.no. | Title                                                                                                                                                                                                                    | Format       | Level |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|
-| 1      | [AWS Security Fundamentals - Skillbuilder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/48/aws-security-fundamentals-second-edition?src=detail)                                                 | Course, Labs | L100  |
-| 2      | [AWS Cloud Quest - Security](https://explore.skillbuilder.aws/learn/public/learning_plan/view/91/security-learning-plan?la=cta&cta=topbanner)                                                                            | Game, Labs   | L100  |
-| 3      | [Cybersecurity Specialist](https://awseducate.instructure.com/courses/196)                                                                                                                                               | Course, Labs | L100  |
-| 4      | [Online Privacy](https://awseducate.instructure.com/courses/237)                                                                                                                                                         | Course, Labs | L100  |
-| 5      | [Ransomware on S3 - Security Event Simulation and Detection](https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-258ffdd76ed6)                                                                | Workshop     | L200  |
-| 6      | [Unauthorized IAM Credential Use - Security Event Simulation and Detection](https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de)                                                 | Workshop     | L200  |
-| 7      | [Implementing a True Passwordless Authentication with Amazon Cognito and Transmit Security](https://aws.amazon.com/blogs/apn/implementing-a-true-passwordless-authentication-with-amazon-cognito-and-transmit-security/) | Blog, Labs   | L200  |
+| Title                                                                                                                                                                                                                    | Description                                                                                                                                               | Format   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Ransomware on S3 - Security Event Simulation and Detection](https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-258ffdd76ed6)                                                                | In this workshop, you will be simulating a scenario by creating a few IAM users and then infiltrating the security using a few scripts                    | Workshop |
+| [Unauthorized IAM Credential Use - Security Event Simulation and Detection](https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de)                                                 | During this workshop, you will simulate the unauthorized use of IAM credentials using a script invoked within AWS CloudShell.                             | Workshop |
+| [Implementing a True Passwordless Authentication with Amazon Cognito and Transmit Security](https://aws.amazon.com/blogs/apn/implementing-a-true-passwordless-authentication-with-amazon-cognito-and-transmit-security/) | Use Amazon Cognito for your application authentication and leverage Transmit Security to provide end users with a passwordless authentication experience. | Workshop |
