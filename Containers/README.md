@@ -8,7 +8,6 @@ Learn more about AWS offerings about Containers and Kubernetes -
 - [AWS Fargate](https://aws.amazon.com/fargate/)
 - [Amazon Elastic Container Registry (Amazon ECR)](https://aws.amazon.com/ecr/)
 
-Platforms like [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about Containers and Kubernetes
 
 ---
 
