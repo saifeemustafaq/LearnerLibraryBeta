@@ -1,8 +1,14 @@
 # Containers and Kubernetes
 
-As a student when you are working on long term projects, you will need to learn about containers. Containers will make it easier to deploy your applications which are complex in nature. Containers is becoming increasingly popular in the cloud development field as they provide isolated environment hence testing and reproducing becomes much easier and save you time.
+"A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another." - [source](https://www.docker.com/resources/what-container/).
+As a student when you are working on long term projects, you will need to learn about containers. Containers will make it easier to deploy your applications which are complex in nature. You application might be required to run in different computing environment, and containerization helps you to package your software and all it's dependencies into a single package.
 
-Learn more about AWS offerings about Containers and Kubernetes -
+You don't have to worry about setting up all the dependencies everytime you want to execute your application.
+
+"Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available." - [source](https://kubernetes.io/docs/concepts/overview/)
+Once you have containerized your application, you might want to deploy it in a way where it can be ewasily scaled up and down across clusters of computers.
+
+You can learn more about Container and Kubernetes services by visiting -
 - [Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/ecs/)
 - [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)
 - [AWS Fargate](https://aws.amazon.com/fargate/)

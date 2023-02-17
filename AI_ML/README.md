@@ -2,9 +2,9 @@
 
 According to Columbia University, "artificial intelligence refers to the general ability of computers to emulate human thought and perform tasks in real-world environments, while machine learning refers to the technologies and algorithms that enable systems to identify patterns, make decisions, and improve themselves through experience and data." [source](https://ai.engineering.columbia.edu/ai-vs-machine-learning/). 
 
-Get hands-on experience with these resources.
+Machine learning helps you automate tasks which would usually be time consuming and difficult if done manually. You might have sometimes seen how you et recommendations on the Amazon shopping app on what you can buy based on what you have already bought. This magic is done by machine learning where it analysis lots of data to learn obvious patterns on how one product is relateable to another.
 
-You can learn more about Machine Learning services offered by AWS by visiting https://aws.amazon.com/machine-learning/
+You can learn more about Machine Learning services by visiting https://aws.amazon.com/machine-learning/
 
 ---
 
@@ -28,7 +28,7 @@ You can learn more about Machine Learning services offered by AWS by visiting ht
 | [Lex chatbot workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/1340db0e-94bd-4014-93e9-dcc218b9d796/en-US)                 | Build a conversational AI bot                                 | Workshop     |
 | [Speech AI workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/acd49d39-dfcd-429a-83d6-d162b99b4c24/en-US)                   | Use AI to understand conversations                       | Workshop     |
 | [Amazon SageMaker Lab course](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US) | Get started with SageMaker using this eight-part lab course                                 | Workshop     |
-| [AWS DeepRacer primer](https://awseducate.instructure.com/courses/750)                                                                    | Learn more about DeepRacer in this course                                                      | Videos       |
+| [AWS DeepRacer primer](https://awseducate.instructure.com/courses/750)                                                                    | Please ensure that you first login to [AWS Educate](https://www.awseducate.com/student/s) before clicking the link. Learn more about DeepRacer in this course                                                      | Videos       |
 
 ---
 

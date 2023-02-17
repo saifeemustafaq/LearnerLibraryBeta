@@ -1,10 +1,11 @@
 # Database
 
+Database is a technology domain when you have a requirement to store large amounts of data and manage it. With databases organizing such data and retrieving it becomes fast and easy.
 As a student, there are multiple ways you can use databases as it is a must element when you build web or mobile applications. While doing Data Analytics and Data Science, databases is very important to store the large data sets you might use. By using database in Machine learning and Artificial Intelligence you can collect vast data and use the storeed data to train your models.
 
-AWS has a wide range of service offerings to accommodate different database requirements to make your project aweseome. Learn more about AWS offerings about Databases by visiting - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
+You can learn more about Database services by visiting - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
 
-Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about how to build database applications.
+
 
 ---
 

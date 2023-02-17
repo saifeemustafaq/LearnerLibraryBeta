@@ -2,9 +2,8 @@
 
 Innovation is happening around us faster than before, and as a student you have the power to make an impact and difference in areas like environment, sustainibility, healthcare and technology. Gear yourself up and learn about Internet of things where you can create solutions to make a difference in these areas and unlock so many possibilities.
 
-AWS has a wide range of service offerings to accommodate different IoT applications to make your project aweseome. Learn more about AWS offerings about IoT by visiting - [AWS Internet of Things](https://aws.amazon.com/iot/)
+You can learn more about Internet of Things by visiting - [AWS Internet of Things](https://aws.amazon.com/iot/)
 
-Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about how to build Internet of Things (IoT) applications.
 
 ---
 
