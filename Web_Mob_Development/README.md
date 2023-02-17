@@ -1,4 +1,4 @@
-# Web Development
+# Web and Mobile Development
 
 Visit [AWS Amplify](https://aws.amazon.com/amplify/) to learn more about Web Development.
 
