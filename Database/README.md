@@ -1,11 +1,10 @@
 # Database
 
+A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). - [source](https://www.oracle.com/in/database/what-is-database/)
 Database is a technology domain when you have a requirement to store large amounts of data and manage it. With databases organizing such data and retrieving it becomes fast and easy.
-As a student, there are multiple ways you can use databases as it is a must element when you build web or mobile applications. While doing Data Analytics and Data Science, databases is very important to store the large data sets you might use. By using database in Machine learning and Artificial Intelligence you can collect vast data and use the storeed data to train your models.
+As a student, there are multiple ways you can use databases as it is a must element when you build web or mobile applications. 
 
 You can learn more about Database services by visiting - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
-
-
 
 ---
 

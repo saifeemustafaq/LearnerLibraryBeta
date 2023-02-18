@@ -1,8 +1,12 @@
 # Artificial Intelligence and Machine Learning
 
+## What is Machine Learning?
+
 According to Columbia University, "artificial intelligence refers to the general ability of computers to emulate human thought and perform tasks in real-world environments, while machine learning refers to the technologies and algorithms that enable systems to identify patterns, make decisions, and improve themselves through experience and data." [source](https://ai.engineering.columbia.edu/ai-vs-machine-learning/). 
 
-Machine learning helps you automate tasks which would usually be time consuming and difficult if done manually. You might have sometimes seen how you et recommendations on the Amazon shopping app on what you can buy based on what you have already bought. This magic is done by machine learning where it analysis lots of data to learn obvious patterns on how one product is relateable to another.
+## Why should you learn Machine Learning as a student?
+
+Machine learning helps you automate tasks which would usually be time consuming and difficult if done manually. You might have sometimes seen how you get recommendations on the Amazon shopping app on what you can buy based on what you have already bought. This feat is achieved by machine learning where it analysis lots of data to learn obvious patterns on how one product is relateable to another. For example, you can use Machine learning to train a chatbot who can answer queries about a specific product when a user has doubts about it before purchasing.
 
 You can learn more about Machine Learning services by visiting https://aws.amazon.com/machine-learning/
 
@@ -15,7 +19,9 @@ You can learn more about Machine Learning services by visiting https://aws.amazo
 | [AWS Machine Learning University](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/?trk=el_a134p000006gNt0AAE&trkCampaign=Machine_Learning_University_NLP_github&sc_channel=el&sc_campaign=Machine_Learning_University_Webpage_NLP_github_CTA&sc_outcome=Product_Marketing) | Make use of this extensive collection which contains slides, notebooks and datasets for the Machine Learning                                                                | Demos, Labs   |
 | [Machine Learning University interactive portal](https://mlu-explain.github.io/)                                                                                                                                                                                                                          | An interactive way of understanding Machine learning concepts                                                                                                               | Documentation |
 | [AWS Power Hour: Machine Learning Eight episode course](https://pages.awscloud.com/global-traincert-twitch-power-hour-machine-learning.html)                                                                                                                                                              | A detailed course for students who like to learn from watching video content                                                                                                | Videos        |
-| [Machine Learning Foundations](https://awseducate.instructure.com/courses/756)                                                                                                                                                                                                                            | Please ensure that you first login to [AWS Educate](https://www.awseducate.com/student/s) before clicking the link. A beginner course about Machine learning on AWS Educate | Videos        |
+| [Machine Learning Foundations](https://awseducate.instructure.com/courses/756) [^1]                                                                                                                                                                                                                            | A beginner course about Machine learning on AWS Educate | Videos        |
+
+[^1] requires logging into [AWS Educate](https://www.awseducate.com/student/s) before clicking on the resource link.
 
 ---
 

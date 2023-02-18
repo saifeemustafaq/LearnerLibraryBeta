@@ -1,19 +1,25 @@
 # Containers and Kubernetes
 
-"A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another." - [source](https://www.docker.com/resources/what-container/).
-As a student when you are working on long term projects, you will need to learn about containers. Containers will make it easier to deploy your applications which are complex in nature. You application might be required to run in different computing environment, and containerization helps you to package your software and all it's dependencies into a single package.
+## What are Containers?
 
+"A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another." - [source](https://www.docker.com/resources/what-container/).
+As a student when you are working on long term projects, you will need to learn about containers. Containers simplify your complex project deployment and development process for you. Your application might be required to run in different computing environment, and containerization helps you to package your software and all it's dependencies into a single package.
 You don't have to worry about setting up all the dependencies everytime you want to execute your application.
+
+## What is Kubernetes?
 
 "Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available." - [source](https://kubernetes.io/docs/concepts/overview/)
 Once you have containerized your application, you might want to deploy it in a way where it can be ewasily scaled up and down across clusters of computers.
+
+## Why should you learn Containers and Kubernetes as a student?
+
+For example you are developing an Event Planner application for your college events. You might want to execurte the application on different environments as a large set of audience will be using it. Also you are unsure about how much traffic you will receive on this application. Hence you use containers to package all the software and it's dependencies in a single package while deploy using Kubernetes to ensure you can scale with respect to rise and fall in demand.
 
 You can learn more about Container and Kubernetes services by visiting -
 - [Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/ecs/)
 - [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)
 - [AWS Fargate](https://aws.amazon.com/fargate/)
 - [Amazon Elastic Container Registry (Amazon ECR)](https://aws.amazon.com/ecr/)
-
 
 ---
 
