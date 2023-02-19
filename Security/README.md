@@ -1,6 +1,12 @@
 # Security
 
-As a student you should be able to build your projects that are secure and reliable keeping in mind the sensitive information the system is supposed to protect. 
+## What is Security?
+
+"IT security is a set of cybersecurity strategies that prevents unauthorized access to organizational assets such as computers, networks, and data. It maintains the integrity and confidentiality of sensitive information, blocking the access of sophisticated hackers." - [source](https://www.cisco.com/c/en/us/products/security/what-is-it-security.html)
+
+## Why should you Security as a student?
+
+You have made an application for your college event registrations, this application handles registration fees transaction as well. Here's why you should keep security in mind. You will be collecting sensitive personal information so __encryption__ is a must to protect this data. You need to have __access control__ policies in place to limit data exposure. Implement __multifactor authentication__ for reliable authorized logins. To ensure all these security protocols you need to learn about __Security__, __Privacy__ and __Safety__ protocols.
 
 You can learn more about Security services by visiting - [AWS Cloud Security](https://aws.amazon.com/security/)
 
@@ -19,8 +25,10 @@ You can learn more about Security services by visiting - [AWS Cloud Security](ht
 
 | Title                                                                      | Description                                                                                                                                                        | Format |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| [Cybersecurity Specialist](https://awseducate.instructure.com/courses/196) | Learn about AWS Shared Security Responsibility Model, Network Security, Access Control and Management, Encryption, Security Logging and Monitoring in this course. | Videos |
-| [Online Privacy](https://awseducate.instructure.com/courses/237)           | In this course you will make yourself aware on how you can secure your online privacy by changing everyday habits when interacting with social platforms.          | Videos |
+| [Cybersecurity Specialist](https://awseducate.instructure.com/courses/196)<sup>[*]</sup> | Learn about AWS Shared Security Responsibility Model, Network Security, Access Control and Management, Encryption, Security Logging and Monitoring in this course. | Videos |
+| [Online Privacy](https://awseducate.instructure.com/courses/237)<sup>[*]</sup>           | In this course you will make yourself aware on how you can secure your online privacy by changing everyday habits when interacting with social platforms.          | Videos |
+<sup>[*]</sup> requires logging into [AWS Educate](https://www.awseducate.com/student/s) before clicking on the resource link.
+
 
 ---
 
