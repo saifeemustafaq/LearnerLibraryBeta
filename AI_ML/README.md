@@ -57,6 +57,6 @@ You can learn more about Machine Learning services by visiting https://aws.amazo
 Navigation -->
 
 | [Homepage](/README.md)                        | [**Artificial Intelligence and Machine Learning**](/AI_ML)   | [Containers and Kubernetes](/Containers_Kubernetes)  |
-|---------------------------------|-------------------------|----------------------------|
+|:---------------------------------:|-------------------------|----------------------------|
 | [Data Science and Data Analytics](/DataScience_DataAnalytics)| [Database](/Database)                | [Internet of Things](/IoT)         |
 | [Security](/Security)                        | [Serverless](/Serverless)              | [Web and Mobile Development](/Web_Mob_Development) |
