@@ -1,6 +1,10 @@
 # Internet of Things (IoT)
 
+## What is Internet of Things?
+
 Innovation is happening around us faster than before, and as a student you have the power to make an impact and difference in areas like environment, sustainibility, healthcare and technology. Gear yourself up and learn about Internet of things where you can create solutions to make a difference in these areas and unlock so many possibilities.
+
+## Why should you learn Internet of Things as a student?
 
 You can learn more about Internet of Things by visiting - [AWS Internet of Things](https://aws.amazon.com/iot/)
 
