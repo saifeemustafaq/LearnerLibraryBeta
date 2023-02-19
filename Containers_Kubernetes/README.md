@@ -2,20 +2,19 @@
 
 ## What are Containers?
 
-"A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another." - [source](https://www.docker.com/resources/what-container/).
-As a student when you are working on long term projects, you will need to learn about containers. Containers simplify your complex project deployment and development process for you. Your application might be required to run in different computing environment, and containerization helps you to package your software and all it's dependencies into a single package.
-You don't have to worry about setting up all the dependencies everytime you want to execute your application.
+"A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another." [source](https://www.docker.com/resources/what-container/).
 
 ## What is Kubernetes?
 
-"Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available." - [source](https://kubernetes.io/docs/concepts/overview/)
-Once you have containerized your application, you might want to deploy it in a way where it can be ewasily scaled up and down across clusters of computers.
+"Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation." [source](https://kubernetes.io/docs/concepts/overview/)
 
 ## Why should you learn Containers and Kubernetes as a student?
 
-For example you are developing an Event Planner application for your college events. You might want to execurte the application on different environments as a large set of audience will be using it. Also you are unsure about how much traffic you will receive on this application. Hence you use containers to package all the software and it's dependencies in a single package while deploy using Kubernetes to ensure you can scale with respect to rise and fall in demand.
+Containers simplify project deployment and development tasks. Your application might be required to run in different computing environments, and containerization helps you to package your software and all its dependencies into a single unit.
 
-You can learn more about Container and Kubernetes services by visiting -
+Imagine that you are developing an Event Planner application to support your college events. You might want to execute the application on different environments as a large audience will be using it. You might also be unsure about how much traffic your application will will receive. In this case you can use containers to package all the software and its dependencies in a single package while deploying it using Kubernetes to ensure it can scale to meet changes in demand.
+
+You can learn more about Container and Kubernetes services by visiting:
 - [Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/ecs/)
 - [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)
 - [AWS Fargate](https://aws.amazon.com/fargate/)
@@ -27,7 +26,7 @@ You can learn more about Container and Kubernetes services by visiting -
 
 | Title                                                                                                                                            | Description                                                                                                                                                                                 | Format |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| [Introduction to Containers](https://explore.skillbuilder.aws/learn/course/external/view/elearning/106/introduction-to-containers)               | An introductory course in Skillbuilder for beginners who are just getting started with learning about Containers                                                                            | Videos |
+| [Introduction to Containers](https://explore.skillbuilder.aws/learn/course/external/view/elearning/106/introduction-to-containers)               | An introductory course for beginners who are just getting started learning about Containers                                                                            | Videos |
 | [Getting Started with Amazon ECS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13597/getting-started-with-amazon-ecs)   | This is an introductory video course to get started with Amazon Elastic Container Service                                                                                                   | Videos |
 | [Getting started with AWS Fargate](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13380/getting-started-with-aws-fargate) | After familiarizing yourself with Amazon ECS, you can do this course to learn how to run containers without having to manage servers or clusters of Amazon EC2 instances using AWS Fargate. | Videos |
 
@@ -40,7 +39,7 @@ You can learn more about Container and Kubernetes services by visiting -
 |-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------|
 | [Amazon Elastic Container Service (Amazon ECS)](https://ecsworkshop.com/)   | A mix of video courses and labs about Amazon Elastic Container Services                   | Videos, Labs |
 | [Amazon Elastic Kubernetes Service (EKS)](https://www.eksworkshop.com/)     | This is an introductory video course to get started with Amazon Elastic Container Service | Videos, Labs |
-| [Containers from the Couch](https://www.youtube.com/containersfromthecouch) | Follow this YouTube channel where we talk everything about Containers and Kubernetes      | Videos       |
+| [Containers from the Couch](https://www.youtube.com/containersfromthecouch) | Follow this YouTube channel that covers everything about Containers and Kubernetes      | Videos       |
 
 ---
 
