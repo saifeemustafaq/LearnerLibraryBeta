@@ -51,3 +51,9 @@ You can learn more about Machine Learning services by visiting https://aws.amazo
 | [Upscale images with Stable Diffusion in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/upscale-images-with-stable-diffusion-in-amazon-sagemaker-jumpstart/)                                                           | Build a solution to increase the resolution of a given image using ML                                               | Lab, Documentation |
 
 <sup>[3]</sup> requires logging into [AWS Educate](https://www.awseducate.com/student/s) before clicking on the resource link.
+
+
+| Homepage                        | [**Artificial Intelligence and Machine Learning**](/AI_ML)   | Containers and Kubernetes  |
+|---------------------------------|-------------------------|----------------------------|
+| [**Data Science and Data Analytics**]()| **Database**                | **Internet of Things**         |
+| **Security**                        | **Serverless**              | **Web and Mobile Development** |
