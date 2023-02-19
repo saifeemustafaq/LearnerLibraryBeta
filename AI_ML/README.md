@@ -52,8 +52,11 @@ You can learn more about Machine Learning services by visiting https://aws.amazo
 
 <sup>[3]</sup> requires logging into [AWS Educate](https://www.awseducate.com/student/s) before clicking on the resource link.
 
+---
 
-| [Homepage](/README.md)                        | [**Artificial Intelligence and Machine Learning**](/AI_ML)   | Containers and Kubernetes  |
+Navigation -->
+
+| [Homepage](/README.md)                        | [**Artificial Intelligence and Machine Learning**](/AI_ML)   | [Containers and Kubernetes](/Containers_Kubernetes)  |
 |---------------------------------|-------------------------|----------------------------|
-| [**Data Science and Data Analytics**]()| **Database**                | **Internet of Things**         |
-| **Security**                        | **Serverless**              | **Web and Mobile Development** |
+| [Data Science and Data Analytics](/DataScience_DataAnalytics)| [Database](/Database)                | [Internet of Things](/IoT)         |
+| [Security](/Security)                        | [Serverless](/Serverless)              | [Web and Mobile Development](/Web_Mob_Development) |
