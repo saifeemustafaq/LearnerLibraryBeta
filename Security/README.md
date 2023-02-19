@@ -4,7 +4,7 @@
 
 "IT security is a set of cybersecurity strategies that prevents unauthorized access to organizational assets such as computers, networks, and data. It maintains the integrity and confidentiality of sensitive information, blocking the access of sophisticated hackers." - [source](https://www.cisco.com/c/en/us/products/security/what-is-it-security.html)
 
-## Why should you Security as a student?
+## Why should you learn Security as a student?
 
 You have made an application for your college event registrations, this application handles registration fees transaction as well. Here's why you should keep security in mind. You will be collecting sensitive personal information so __encryption__ is a must to protect this data. You need to have __access control__ policies in place to limit data exposure. Implement __multifactor authentication__ for reliable authorized logins. To ensure all these security protocols you need to learn about __Security__, __Privacy__ and __Safety__ protocols.
 
@@ -17,8 +17,8 @@ You can learn more about Security services by visiting - [AWS Cloud Security](ht
 | Title                                                                                                                                                                    | Description                                                                                                                                                                                                 | Format |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | [AWS Security Fundamentals - Skillbuilder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/48/aws-security-fundamentals-second-edition?src=detail) | In this self-paced course, you will learn fundamental AWS cloud security concepts, including AWS access control, data encryption methods, and how network access to your AWS infrastructure can be secured. | Course |
-| [Cloud Quest: Security](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)                            | Develop a fundamental understanding of security concepts and start building solutions in a gamified manner. Once you start the quest, click on roles, and change your role to Security from the options     | Course |
-
+| [Cloud Quest: Security](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)<sup>[*]</sup>                            | Develop a fundamental understanding of security concepts and start building solutions in a gamified manner. Once you start the quest, click on roles, and change your role to Security from the options     | Course |
+<sup>[*]</sup> AWS Skillbuilder subscription required.
 ---
 
 ### Level :two: - Intermediate

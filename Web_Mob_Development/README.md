@@ -1,16 +1,32 @@
 # Web and Mobile Development
 
-Visit [AWS Amplify](https://aws.amazon.com/amplify/) to learn more about Web Development.
+## What is web development?
 
-To get started with [AWS Amplify](https://aws.amazon.com/amplify/), refer to the following training materials:
+"Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites." - [source](https://www.geeksforgeeks.org/web-development/)
+
+## What is mobile development?
+
+"Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources. Hence, the mobile development process involves creating installable software bundles (code, binaries, assets, etc.) , implementing backend services such as data access with an API, and testing the application on target devices." - [source](https://aws.amazon.com/mobile/mobile-application-development/)
+
+## Why should you learn web development and mobile development as a student?
+
+You want to make a online store to showcase and sell certain product or service, then these platforms will be accessed majorly on either websites or mobile phones. So it is very necessary to build application for these platform to increase the reach of your offering. A few skills needed would be Front-end development to create the interactive interface for your customers, back-end development to manage the functionalities of the application. As there will be a lot of operations such as adding, deleting and modifying the items on these platforms, you would need to know databse management knowledge, and to make it scalable, reliable and available, you have to deploy it on a cloud platform.
+
+You can learn more about web development by visiting -[AWS Amplify](https://aws.amazon.com/amplify/)
+
+
 
 ---
 
 ### Level :one: - Getting Started
 
-| Title                                                                      | Description                                                                             | Format         |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------|
-| [Web Development Engineer](https://awseducate.instructure.com/courses/193) | This is a web development course for students who want to become a Full stack developer | Workshop, Labs |
+| Title                                                                                                           | Description                                                                                         | Format         |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------|
+| [Web Development Engineer](https://awseducate.instructure.com/courses/193)<sup>[*]</sup>                                      | This is a web development course for students who want to become a Full stack developer             | Workshop, Labs |
+| [Create a “Todo app” to store and retrieve items in a cloud ](https://docs.amplify.aws/start/q/integration/js/) | This application can be built using the following technologies like JavaScript, React, Android, etc |                |
+
+<sup>[*]</sup> requires logging into [AWS Educate](https://www.awseducate.com/student/s) before clicking on the resource link.
+
 
 ---
 
@@ -30,25 +46,3 @@ To get started with [AWS Amplify](https://aws.amazon.com/amplify/), refer to the
 |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | [Build a Product Roadmap with Next.js and Amplify](https://aws.amazon.com/blogs/mobile/build-a-product-roadmap-with-next-js-and-amplify/) | In this workshop, we’ll build an admin page for product managers to login and update the roadmap and have it reflected on the roadmap page. | Blog, Workshop |
 | [Text to Speech on Android Using AWS Amplify](https://aws.amazon.com/blogs/mobile/text-to-speech-on-android-using-aws-amplify/)           | You will learn how to use the Predictions category to implement text to speech in an Android app.                                           | Blog, Workshop |
-
----
-
-The below content requires @jlooper approval hence not yet added to the above column. Discuss more on this in meetings
-
-[Create a “Todo app” with a GraphQL API and to store and retrieve items in a cloud database with JavaScript](https://docs.amplify.aws/start/q/integration/js/)
-
-[Create a simple blog with a GraphQL API and to store and retrieve items in a cloud database using Next.js](https://docs.amplify.aws/start/q/integration/next/)
-
-[Create a “Todo app” with a GraphQL API and to store and retrieve items in a cloud database with React](https://docs.amplify.aws/start/q/integration/react/)
-
-[Define a GraphQL schema to provision backend resources in Android Development](https://docs.amplify.aws/start/q/integration/android/)
-
-[Create a “Todo app” with a GraphQL API and to store and retrieve items in a cloud database with React Native](https://docs.amplify.aws/start/q/integration/react-native/)
-
-[Create an app with a GraphQL API to store and retrieve your favorite restaurants in a cloud database using Angular](https://docs.amplify.aws/start/q/integration/angular/)
-
-[Create a “Todo app” with a GraphQL API and to store and retrieve items in a cloud database with Vue](https://docs.amplify.aws/start/q/integration/vue/)
-
-[Define a GraphQL schema to provision backend resources in SWIFT Development](https://docs.amplify.aws/start/q/integration/ios/)
-
-[Create a fully featured Todo app using Amplify DataStore to store and retrieve items in a cloud database using Flutter](https://docs.amplify.aws/start/q/integration/flutter/)

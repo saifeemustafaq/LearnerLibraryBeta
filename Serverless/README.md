@@ -1,6 +1,12 @@
 # Serverless
 
-When you create an application or a project, to make it professional grade, you need to keep a few things in mind. Is the application scalable when demand would fluctuate? Is it flexible in terms of deployment and easy to integrate new features? Will it be cost effective compared to the traditional server based method of deployment? And most important one, Would you rather focus on writing the code or managing the underlying infrastructure?
+## What is Severless?
+
+"Serverless is a cloud-native development model that allows developers to build and run applications without having to manage servers. There are still servers in serverless, but they are abstracted away from app development. A cloud provider handles the routine work of provisioning, maintaining, and scaling the server infrastructure. Developers can simply package their code in containers for deployment." - [source](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
+
+## Why should you learn Serverless as a student?
+
+You are building an application for yourself and your peers to manage your coursework and study progress. Building it in a serverless environment will be the easiest and fastest way of making this application. You can build the front-end using React or Angular and hosting it via a service like AWS Cloudfront. To manage schedules and attendance you can build an API that would make it easier to trigger functions in the cloud. You can use AWS Lambda to trigger the functions built on AWS Lambda. You will also create profiles for unique individuals which would require Identity and Access management. AWS Congnito is a serverless authentication and authorization service for identity access and management.
 
 You have one solution to all the above scenarios - [Serverless](https://aws.amazon.com/serverless/)
 
@@ -12,8 +18,9 @@ Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](ht
 
 | Title                                                                                                                                         | Description                                                                                                                                                                                                           | Format         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| [AWS Cloud Quest - Serverless](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner) | Develop a fundamental understanding of serverless concepts and start building solutions in a gamified manner. Once you start the quest, click on roles, and change your role to Serverless Developer from the options | Game, Labs     |
+| [AWS Cloud Quest - Serverless](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)<sup>[*]</sup> | Develop a fundamental understanding of serverless concepts and start building solutions in a gamified manner. Once you start the quest, click on roles, and change your role to Serverless Developer from the options | Game, Labs     |
 | [AppSync Immersion Day](https://appsync-immersionday.workshop.aws/)                                                                           | The AWS AppSync immersion day workshop provides an introduction to implementing serverless GraphQl APIs connected to multiple data sources with AppSync                                                               | Workshop, Labs |
+<sup>[*]</sup> AWS Skillbuilder subscription required.
 
 ---
 
