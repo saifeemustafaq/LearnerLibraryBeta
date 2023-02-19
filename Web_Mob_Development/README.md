@@ -10,11 +10,9 @@
 
 ## Why should you learn web development and mobile development as a student?
 
-You want to make a online store to showcase and sell certain product or service, then these platforms will be accessed majorly on either websites or mobile phones. So it is very necessary to build application for these platform to increase the reach of your offering. A few skills needed would be Front-end development to create the interactive interface for your customers, back-end development to manage the functionalities of the application. As there will be a lot of operations such as adding, deleting and modifying the items on these platforms, you would need to know databse management knowledge, and to make it scalable, reliable and available, you have to deploy it on a cloud platform.
+You want to make an online store to showcase and sell certain product or service, this online store will be accessed majorly on either websites or mobile phones to increase the reach of your offering. A few skills required in building this online store would be Front-end development to create the interactive interface for your customers, back-end development to manage the functionalities of the application. As there will be a lot of operations such as adding, deleting and modifying the items, you would need to know databse management knowledge. And to make it scalable, reliable and available, you have to deploy it on a cloud platform.
 
 You can learn more about web development by visiting -[AWS Amplify](https://aws.amazon.com/amplify/)
-
-
 
 ---
 
