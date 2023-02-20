@@ -7,7 +7,7 @@ Database is a technology domain when you have a requirement to store large amoun
 
 ## Why should you learn Database technology as a student?
 
-Let's take an example where you want to create a website to plshowcase your college events. You would need to make sure that operations like create, read, update, and delete is possible for modifying the events. You can use a cloud based database to create events in your website which will be connected to a database at the backend. Whenever you perform an operation to add, delete or modify an event on your website, it will be changed from the backend database and then updated on your frontend application.
+Let's take an example where you want to create a website to showcase your college events. You would need to make sure that operations like create, read, update, and delete are possible for modifying the events. You can use a cloud-based database to create events on your website, which will be connected to a database at the backend. Whenever you perform an operation to add, delete, or modify an event on your website, it will be changed in the backend database and then updated on your frontend application.
 
 You can learn more about Database services by visiting - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
 
