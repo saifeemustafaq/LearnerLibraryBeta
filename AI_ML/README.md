@@ -6,7 +6,7 @@ According to Columbia University, "artificial intelligence refers to the general
 
 ## Why should you learn Machine Learning as a student?
 
-Machine learning helps you automate tasks which would usually be time consuming and difficult if done manually. You might have sometimes seen how you get recommendations on the Amazon shopping app on what you can buy based on what you have already bought. This feat is achieved by machine learning where it analysis lots of data to learn obvious patterns on how one product is relateable to another. For example, you can use Machine learning to train a chatbot who can answer queries about a specific product when a user has doubts about it before purchasing.
+Machine learning helps you automate tasks, which would usually be time consuming and difficult if done manually. You may have seen how you receive recommendations on the Amazon shopping app about what to buy based on your previous purchases. This feat is achieved by machine learning, where it analyzes lots of data to learn obvious patterns on how one product is related to another. For example, you can use machine learning to train a chatbot that can answer queries about a specific product when a user has doubts before purchasing it.
 
 You can learn more about Machine Learning services by visiting https://aws.amazon.com/machine-learning/
 
