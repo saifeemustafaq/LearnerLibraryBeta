@@ -6,7 +6,7 @@
 
 ## Why should you learn Serverless as a student?
 
-You are building an application for yourself and your peers to manage your coursework and study progress. Building it in a serverless environment will be the easiest and fastest way of making this application. You can build the front-end using React or Angular and hosting it via a service like AWS Cloudfront. To manage schedules and attendance you can build an API that would make it easier to trigger functions in the cloud. You can use AWS Lambda to trigger the functions built on AWS Lambda. You will also create profiles for unique individuals which would require Identity and Access management. AWS Congnito is a serverless authentication and authorization service for identity access and management.
+You are building an application for yourself and your peers to manage your coursework and study progress. Building it in a serverless environment is the easiest and fastest way to create this application. You can build the front-end using React or Angular and hosting it via a service like AWS Cloudfront. You can build an API to manage schedules and attendance, which will make it easier to trigger functions in the cloud. You can use AWS Lambda to trigger the functions built on AWS Lambda. You will also create profiles for unique individuals, which require Identity and Access management. AWS Cognito is a serverless authentication and authorization service for identity access and management.
 
 You can learn more about serverless by visiting - - [Serverless](https://aws.amazon.com/serverless/)
 
