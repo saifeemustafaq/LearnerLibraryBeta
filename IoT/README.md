@@ -6,7 +6,7 @@ The term IoT, or Internet of Things, refers to the collective network of connect
 
 ## Why should you learn Internet of Things as a student?
 
-Let's take an example. You are taking care of a small garden in your backyard. But as you have college and classes to attend regularly, you are unable to regularly water the plants. The solution to this problem is using Internet of Things. You can use sensors to monitor the moisture in the soil and implement a smart irrigation system. As soon as the sensor sends a message that the moisture has dropped below a certain threshhold, the irrigation system will be activated and water will be supplied to all the plants.
+Let's take an example. You are taking care of a small garden in your backyard. But as you have college and classes to attend, you are unable to regularly water the plants. The solution to this problem is using Internet of Things. You can use sensors to monitor the moisture in the soil and implement a smart irrigation system. As soon as the sensor sends a message that the moisture has dropped below a certain threshold, the irrigation system will be activated and water will be supplied to all the plants.
 
 You can learn more about Internet of Things by visiting - [AWS Internet of Things](https://aws.amazon.com/iot/)
 
