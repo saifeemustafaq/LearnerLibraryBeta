@@ -12,7 +12,7 @@
 
 Containers simplify project deployment and development tasks. Your application might be required to run in different computing environments, and containerization helps you to package your software and all its dependencies into a single unit.
 
-Imagine that you are developing an Event Planner application to support your college events. You might want to execute the application on different environments as a large audience will be using it. You might also be unsure about how much traffic your application will receive. In this case you can use containers to package all the software and its dependencies in a single package while deploying it using Kubernetes to ensure it can scale to meet changes in demand.
+Imagine that you are developing an Event Planner application to support your college events. You may want to run the application on different environments because a large audience will be using it. You may also be uncertain about the amount of traffic that your application will receive. In this case you can use containers to package all the software and its dependencies in a single package while deploying it using Kubernetes to ensure it can scale to meet changes in demand.
 
 You can learn more about Container and Kubernetes services by visiting:
 - [Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/ecs/)
