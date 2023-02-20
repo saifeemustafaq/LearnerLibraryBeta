@@ -6,7 +6,7 @@
 
 ## Why should you learn Security as a student?
 
-You have made an application for your college event registrations, this application handles registration fees transaction as well. Here's why you should keep security in mind. You will be collecting sensitive personal information so __encryption__ is a must to protect this data. You need to have __access control__ policies in place to limit data exposure. Implement __multifactor authentication__ for reliable authorized logins. To ensure all these security protocols you need to learn about __Security__, __Privacy__ and __Safety__ protocols.
+You have made an application for your college event registrations, this application handles registration fees transaction as well. Here's why you should keep security in mind. You will be collecting sensitive personal information so __encryption__ is a must to protect this data. You need to have __access control__ policies in place to limit data exposure. Implement __multifactor authentication__ for reliable authorized logins. To ensure all these security protocols you need to learn about and implement __Security__, __Privacy__ and __Safety__ protocols.
 
 You can learn more about Security services by visiting - [AWS Cloud Security](https://aws.amazon.com/security/)
 
