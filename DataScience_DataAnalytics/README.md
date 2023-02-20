@@ -10,7 +10,7 @@
 
 ## Why should you learn Data Scince and Data Analytics as a student?
 
-Let's say you are tasked to make your final year project for a real customer and you have finalized a retail shop in your area. The customer has provided you with purchase history and the stock inwards & outwards of ten years. That's a lot of raw data to filter, sort and clean. You can use Data science here to analyze all this raw data and convert it into meaningful usable data. Then you can leverage data analytics to make discount schemes on low selling products, design marketing campaigns for areas that have less reach and approximate the best suitable value for products that would receive good margins. The result of all this will ultimately increase sales and gain more profits.
+Let's say you are tasked to make your final year project for a real customer and you have finalized a retail shop in your area. The customer has provided you with the purchase history and the inward and outward stock records of ten years. That's a lot of raw data to filter, sort, and clean. You can use Data science here to analyze all this raw data and convert it into meaningful usable data. Then, you can leverage data analytics to make discount schemes on low selling products, design marketing campaigns for areas that have less reach and estimate the best suitable value for products that would receive good margins. The result of all this will ultimately increase sales and gain more profits.
 
 > [Read this article by Harvard Business School to know the difference between Data Science and Data Analytics.](https://online.hbs.edu/blog/post/data-analytics-vs-data-science)
 
