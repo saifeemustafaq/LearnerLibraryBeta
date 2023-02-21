@@ -1,7 +1,3 @@
-# LearnerLibraryBeta
-(To be removed when publishing) The repository Learner Library is a Beta version for all kinds of experimentations and demo to be conducted for the original [AWS Cloud Clubs Learner Library](https://github.com/build-on-aws/cloud-clubs-learner-library)
-
-> HOMEPAGE UNDER CONSTRUCTION!
 
 Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about different technologies and domains.
 

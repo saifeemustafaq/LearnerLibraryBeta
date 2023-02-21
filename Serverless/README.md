@@ -16,9 +16,7 @@ You can learn more about serverless by visiting - - [Serverless](https://aws.ama
 
 | Title                                                                                                                                         | Description                                                                                                                                                                                                           | Format         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| [AWS Cloud Quest - Serverless](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)<sup>[*]</sup> | Develop a fundamental understanding of serverless concepts and start building solutions in a gamified manner. Once you start the quest, click on roles, and change your role to Serverless Developer from the options | Game, Labs     |
 | [AppSync Immersion Day](https://appsync-immersionday.workshop.aws/)                                                                           | The AWS AppSync immersion day workshop provides an introduction to implementing serverless GraphQl APIs connected to multiple data sources with AppSync                                                               | Workshop, Labs |
-<sup>[*]</sup> AWS Skillbuilder subscription required.
 
 ---
 
