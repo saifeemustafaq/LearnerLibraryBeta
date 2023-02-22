@@ -1,14 +1,14 @@
 # Internet of Things (IoT)
 
-## What is Internet of Things?
+## What is the Internet of Things?
 
-The term IoT, or Internet of Things, refers to the collective network of connected devices and the technology that facilitates communication between devices and the cloud, as well as between the devices themselves. Thanks to the advent of inexpensive computer chips and high bandwidth telecommunication, we now have billions of devices  connected to the internet. This means everyday devices like toothbrushes, vacuums, cars, and machines can use sensors to collect data and respond intelligently to users. - [source](https://aws.amazon.com/what-is/iot/)
+"The term IoT, or Internet of Things, refers to the collective network of connected devices and the technology that facilitates communication between them and the cloud, as well as between the devices themselves. Thanks to the advent of inexpensive computer chips and high bandwidth telecommunication, we now have billions of devices  connected to the internet. This means everyday devices like toothbrushes, vacuums, cars, and machines can use sensors to collect data and respond intelligently to users." - [source](https://aws.amazon.com/what-is/iot/)
 
-## Why should you learn Internet of Things as a student?
+## Why should you learn about the Internet of Things as a student?
 
-Let's take an example. You are taking care of a small garden in your backyard. But as you have college and classes to attend, you are unable to regularly water the plants. The solution to this problem is using Internet of Things. You can use sensors to monitor the moisture in the soil and implement a smart irrigation system. As soon as the sensor sends a message that the moisture has dropped below a certain threshold, the irrigation system will be activated and water will be supplied to all the plants.
+Imagine that you are taking care of a small garden in your backyard. Since you have classes to attend, you are unable to regularly water the plants. The Internet of Things might provide a solution to this problem. You can use sensors to monitor the moisture in the soil and implement a smart irrigation system. As soon as the sensor sends a message that the moisture has dropped below a certain threshold, the irrigation system will be activated and water will be supplied to all the plants.
 
-You can learn more about Internet of Things by visiting - [AWS Internet of Things](https://aws.amazon.com/iot/)
+You can learn more about the Internet of Things by visiting [AWS Internet of Things](https://aws.amazon.com/iot/)
 
 
 ---
