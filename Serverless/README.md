@@ -4,11 +4,11 @@
 
 "Serverless is a cloud-native development model that allows developers to build and run applications without having to manage servers. There are still servers in serverless, but they are abstracted away from app development. A cloud provider handles the routine work of provisioning, maintaining, and scaling the server infrastructure. Developers can simply package their code in containers for deployment." - [source](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
 
-## Why should you learn Serverless as a student?
+## Why should you learn about Serverless as a student?
 
-You are building an application for yourself and your peers to manage your coursework and study progress. Building it in a serverless environment is the easiest and fastest way to create this application. You can build the front-end using React or Angular and hosting it via a service like AWS Cloudfront. You can build an API to manage schedules and attendance, which will make it easier to trigger functions in the cloud. You can use AWS Lambda to trigger the functions built on AWS Lambda. You will also create profiles for unique individuals, which require Identity and Access management. AWS Cognito is a serverless authentication and authorization service for identity access and management.
+You are building an application for yourself and your peers to manage your coursework and study progress. Building it in a serverless environment is the easiest and fastest way to create this application. You can build an API to manage schedules and attendance with endpoints that your front-end application can call to trigger functions in the cloud. 
 
-You can learn more about serverless by visiting - - [Serverless](https://aws.amazon.com/serverless/)
+You can learn more about serverless by visiting [Serverless on AWS](https://aws.amazon.com/serverless/)
 
 ---
 
@@ -17,6 +17,8 @@ You can learn more about serverless by visiting - - [Serverless](https://aws.ama
 | Title                                                                                                                                         | Description                                                                                                                                                                                                           | Format         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | [AppSync Immersion Day](https://appsync-immersionday.workshop.aws/)                                                                           | The AWS AppSync immersion day workshop provides an introduction to implementing serverless GraphQl APIs connected to multiple data sources with AppSync                                                               | Workshop, Labs |
+| [Lambda and DynamoDB Workshop](https://github.com/alexdebrie/lambda-dynamodb-workshop) | A self-guided workshop on GitHub guiding you through connecting a Lambda function to a DynamoDB database | Workshop |
+| [Serverless 101](https://serverlessland.com/learn/serverless-101) | Videos describing serverless concepts | Videos |
 
 ---
 

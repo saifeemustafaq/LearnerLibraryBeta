@@ -1,15 +1,15 @@
 # Database
 
-## What is Database technology?
+## What are Databases?
 
 A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). - [source](https://www.oracle.com/in/database/what-is-database/)
 Database is a technology domain when you have a requirement to store large amounts of data and manage it. With databases organizing such data and retrieving it becomes fast and easy.
 
-## Why should you learn Database technology as a student?
+## Why should you learn about Databases as a student?
 
-Let's take an example where you want to create a website to showcase your college events. You would need to make sure that operations like create, read, update, and delete are possible for modifying the events. You can use a cloud-based database to create events on your website, which will be connected to a database at the backend. Whenever you perform an operation to add, delete, or modify an event on your website, it will be changed in the backend database and then updated on your frontend application.
+Let's take an example where you want to create a web site to showcase your college events. You need to make sure that operations like create, read, update, and delete are possible when managing the events. You can use a database to store the events created on the frontend of your web site. Whenever you perform an operation to add, delete, or modify an event on your website, the event's record will be edited in the database and then updated on the web application.
 
-You can learn more about Database services by visiting - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
+You can learn more about databases on AWS by visiting - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
 
 ---
 
