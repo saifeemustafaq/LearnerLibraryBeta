@@ -3,6 +3,7 @@
 ## What are Databases?
 
 A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). - [source](https://www.oracle.com/in/database/what-is-database/)
+
 Database is a technology domain when you have a requirement to store large amounts of data and manage it. With databases organizing such data and retrieving it becomes fast and easy.
 
 ## Why should you learn about Databases as a student?
