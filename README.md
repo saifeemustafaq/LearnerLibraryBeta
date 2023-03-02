@@ -1,3 +1,4 @@
+## Learner Library
 
 Platforms like [AWS Educate](https://www.awseducate.com/), [AWS Skillbuilder](https://explore.skillbuilder.aws/learn) and [AWS Workshops](https://workshops.aws/) can be leveraged to learn more about different technologies and domains.
 
@@ -18,3 +19,13 @@ To get started with Cloud Computing, a good starting point would be [AWS Cloud Q
 | [Security](/Security)                                         | IT security is a set of cybersecurity strategies that prevents unauthorized access to organizational assets such as computers, networks, and data                                                                                                                                                                        |
 | [Serverless](/Serverless)                                     | Serverless is a cloud-native development model that allows developers to build and run applications without having to manage servers.                                                                                                                                                                                    |
 | [Web and Mobile Development](/Web_Mobile_Development)            | Web development refers to the ability to build beautiful, accessible, fast, and secure websites that work cross-browser, and for all of your users.                                                                                                                                                                     |
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
+## License Summary
+
+The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
+
+The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
